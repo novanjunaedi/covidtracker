@@ -1,0 +1,32 @@
+.diagnosis {
+	margin-top: 1rem;
+	height: auto;
+	background-color: #579bcc;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.content-diagnosis {
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+}
+
+.doc-image {
+	height: 300px;
+	width: 300px;
+}
+
+@media (max-width: 770px) {
+	.doc-image {
+		height: 200px;
+		width: 200px;
+	}
+
+	.content-diagnosis {
+	margin-top: auto;
+	text-align: center;
+	color: white;
+}
+}

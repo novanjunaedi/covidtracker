@@ -1,0 +1,32 @@
+.hero {
+	margin-top: 2rem;
+	height: 120vh;
+	background: url(../../images/jumbotron-bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.hero-con {
+	margin-top: 80px;
+}
+
+.bold {
+	font-size: 1.3rem;
+}
+
+.btn-hero {
+	border: 0;
+	border-color: #007bff;
+	border-radius: 50px;
+	align-items: center;
+	color: white;
+}
+
+.btn-hero:hover {
+	border: 0;
+	border-color: #007bff;
+	border-radius: 50px;
+	align-items: center;
+}
+
