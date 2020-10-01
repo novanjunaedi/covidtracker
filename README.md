@@ -1,3 +1,9 @@
+# Covid Tracker
+This is a web app that provides latest information about spreading of covid-19.
+
+## Demo
+http://covidtracker-apps.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Preview
+![Covid Tracker](https://i.ibb.co/YTX03pH/Screenshot-4.png)
